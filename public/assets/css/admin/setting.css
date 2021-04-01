@@ -1,0 +1,99 @@
+a#notification-link{
+    font-size: 25px;
+    color: rgb(16, 19, 19);
+}
+
+#navbarNotificationCounter{
+    font-size: 12px;
+    position: relative;
+    top: -17px;
+    left: -16px;
+    color: white;
+}
+
+.submit-button{
+    border: 1px;
+}
+
+.admin-image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+div.admin-panel{
+    margin-right: 20px;
+}
+
+main{
+    margin-top: 100px;
+}
+
+.card-header{
+    text-align: center;
+    font-size: 26px;
+    color: #060609;
+}
+
+#idcard-image-style{
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+.modal-dialog{
+    max-width: 600px;
+}
+
+#deleteStartday-body{
+    height:78px;
+}
+
+textarea{
+    width: 90%;
+    height: 70px;
+}
+
+#startday-edit-madal-body{
+    overflow-y: auto;
+    height: 240px;
+}
+
+.modal-startday{
+    width: 100%;
+}
+
+#location-card-body input{
+    width: 90%;
+}
+
+#user-edit-madal-body{
+    overflow-y: auto;
+    height: 400px;
+}
+
+.modal-body .row{
+    margin:10px;
+}
+
+.sui-button-cell
+    {
+        text-align: center;
+    }
+
+    .sui-checkbox
+    {
+        font-size: 17px !important;
+        padding-bottom: 4px !important;
+    }
+
+    .deleteButton img
+    {
+        margin-right: 3px;
+        vertical-align: bottom;
+    }
+
+    .bigicon
+    {
+        color: #5CB85C;
+        font-size: 20px;
+    }
